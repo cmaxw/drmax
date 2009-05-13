@@ -1,0 +1,4 @@
+<%= render :partial => "discount", :collection => @discounts %>
+<div id="new_discount">
+<%= link_to "Add a Discount", "#", :onclick => "$.ajax({url: '/discount/add', type: 'POST', success: function(html){$('#new_discount').replaceWith(html);}});" %>
+</div>
