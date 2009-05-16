@@ -1,0 +1,6 @@
+.breadcrumb
+  %a{ :href => "/" }
+    Home
+  - if request.path_info != "/"
+    » 
+    = @breadcrumb.join(" » ")

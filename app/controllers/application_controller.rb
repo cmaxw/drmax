@@ -6,6 +6,7 @@ class ApplicationController < ActionController::Base
   protect_from_forgery # See ActionController::RequestForgeryProtection for details
   filter_parameter_logging :password, :password_confirmation
   helper_method :current_user_session, :current_user
+  before_filter :set_breadcrumb
 
   private
   def current_user_session
@@ -45,4 +46,9 @@ class ApplicationController < ActionController::Base
     session[:return_to] = nil
   end
   
+  def set_breadcrumb
+    @breadcrumb = []
+    @breadcrumb << params[:controller].capitalize unless params[:controller] = "site"
+    true
+  end
 end

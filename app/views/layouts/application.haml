@@ -1,0 +1,109 @@
+!!! Strict
+%html{ "xml:lang" => "en", :lang => "en", :xmlns => "http://www.w3.org/1999/xhtml" }
+  %head
+    %title
+      Dr. Max S. Wood DDS: Provo Dentist;
+    %meta{ :content => "text/html; charset=utf-8", "http-equiv" => "Content-Type" }
+    %link{ :href => "/favicon.png", :rel => "shortcut icon", :type => "image/png" }
+    = stylesheet_link_tag "default", "system", "base"
+    %script{ :type => "text/javascript", :src => "http://www.google.com/jsapi" }
+    %script{ :type => "text/javascript" }
+      google.load("jquery", "1.3.2");
+      
+      google.setOnLoadCallback(function() {
+      \// Place init code here instead of $(document).ready()
+      });
+  %body
+    #container
+      #header
+        #header_title
+          %ul.links.primary-links
+            %li.first.last.1-1
+              \&nbsp;
+          #header_search
+          %h1
+            %a{ :href => "/", :title => "Home" }
+              Dr Max S. Wood DDS
+              %small
+                Designing a smile you can smile about
+        #header_categories
+          =render :partial => "site/top_menu"
+        #header_breadcrumb
+          =render :partial => "site/breadcrumb"
+      /
+        \/header
+      #content
+        #content_center.column
+          = yield
+        /
+          \/content_center
+        #content_left.column
+          #block-user-1.block.block-user
+            %h2.title
+              Discounts
+            .content
+              %ul.menu
+                %li.collapsed
+                  Student Discount - 10%
+                  %br
+                  %small
+                    Available with BYU or UVU ID
+                %li.collapsed
+                  Senior Citizen - 10%
+                  %br
+                  %small
+                    For patients 65 and older
+                %li.collapsed
+                  Cool Guys - 100%
+                  %br
+                  %small
+                    Named Chuck, Charles, or Max
+        /
+          \/content_left
+        #content_right.column
+          #block-drigg_blocks-0.block.block-drigg_blocks
+            %h2.title
+              Recent Articles
+            .content
+              %ul
+                %li
+                  %a{ :href => "#" }
+                    %span
+                      Getting the Most out of Your Dental Insurance
+                %li
+                  %a{ :href => "#" }
+                    %span
+                      Ideal Dental Hygiene &mdash; How Ten Minutes a Day can Save You Money
+                %li
+                  %a{ :href => "#" }
+                    %span
+                      Article #1 - About Something
+                %li
+                  %a{ :href => "#" }
+                    %span
+                      Article #2 - About Something Else
+                %li
+                  %a{ :href => "#" }
+                    %span
+                      Yadda Yadda Yadda
+          #block-drigg_blocks-1.block.block-drigg_blocks
+            %h2.title
+              Office News
+            .content
+              %ul
+                %li
+                  %a{ :href => "#" }
+                    Meet Angie! Our New Assistant
+                %li
+                  %a{ :href => "#" }
+                    Mother's Day Special
+        /
+          \/content_right
+      /
+        \/content
+      #footer
+        \&nbsp;
+      /
+        \/footer
+    /
+      \/container
