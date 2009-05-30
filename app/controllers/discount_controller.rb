@@ -2,6 +2,12 @@ class DiscountController < ApplicationController
   def add
     render :action => "add", :layout => false
   end
+  
+  def create
+    @discount = Discount.create(params[:discount])
+    @discounts = Discount.find(:all)
+    render :action => "index"
+  end
 
   def edit
     

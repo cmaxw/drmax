@@ -1,12 +1,13 @@
 %h2 Add a New Discount
-- form_for :discount do |form|
+- form_for :discount, :url => "discount/create" do |f|
   %p
-    = label_for :discount_name
-      Name
-    = form.text_field :name, :value => "name", :size => 30
+    = label_tag "discount[name]", "Name"
+    = f.text_field :name, :value => "name", :size => 30
   %p
-    = label_for :discount_amount
-    = form.text_field :amount, :value => "5%", :size => 5
+    = label_tag "discount[amount]", "Amount"
+    = f.text_field :amount, :value => "5%", :size => 5
   %p
-    =label_for :discount_caption
-    = form.text_field :caption, :value => "caption", :size => 30
+    = label_tag "discount[caption]", "Caption"
+    = f.text_field :caption, :value => "caption", :size => 30
+  %p
+    = submit_tag "New"

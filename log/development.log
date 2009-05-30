@@ -48,7 +48,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:16:32) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/style.css" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/style.css" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -80,7 +80,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:16:32) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/modules/drigg/drigg/drigg.js" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/modules/drmax/drmax/drmax.js" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -112,7 +112,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:16:32) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -120,7 +120,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:16:32) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all//themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all//themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -128,7 +128,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:16:33) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/drigg_80_15.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/drmax_80_15.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -136,7 +136,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:16:35) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/favicon.ico" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/favicon.ico" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -202,7 +202,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:28:06) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/style.css" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/style.css" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -242,7 +242,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:28:06) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/modules/drigg/drigg/drigg.js" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/modules/drmax/drmax/drmax.js" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -274,7 +274,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:28:06) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all//themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all//themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -282,7 +282,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:28:06) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -290,7 +290,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:28:06) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/drigg_80_15.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/drmax_80_15.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -352,7 +352,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:31:02) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/style.css" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/style.css" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -376,7 +376,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:31:02) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/modules/drigg/drigg/drigg.js" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/modules/drmax/drmax/drmax.js" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -408,7 +408,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:31:02) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -416,7 +416,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:31:02) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all//themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all//themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -424,7 +424,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:31:02) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/drigg_80_15.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/drmax_80_15.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -502,7 +502,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:34:05) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/style.css" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/style.css" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -526,7 +526,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:34:05) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/modules/drigg/drigg/drigg.js" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/modules/drmax/drmax/drmax.js" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -590,7 +590,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:34:05) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -598,7 +598,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:34:05) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all//themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all//themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -606,7 +606,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:34:05) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/drigg_80_15.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/drmax_80_15.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -684,7 +684,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:42:37) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/style.css" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/style.css" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -708,7 +708,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:42:37) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/modules/drigg/drigg/drigg.js" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/modules/drmax/drmax/drmax.js" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -764,7 +764,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:42:37) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -772,7 +772,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:42:37) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all//themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all//themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -780,7 +780,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:42:37) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/drigg_80_15.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/drmax_80_15.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -858,7 +858,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:43:49) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/style.css" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/style.css" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -882,7 +882,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:43:49) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/modules/drigg/drigg/drigg.js" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/modules/drmax/drmax/drmax.js" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -938,7 +938,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:43:49) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/drigg_80_15.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/drmax_80_15.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -954,7 +954,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:43:49) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all//themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all//themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -970,7 +970,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:43:49) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1016,7 +1016,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:46:55) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all//themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all//themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1024,7 +1024,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:46:55) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1040,7 +1040,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:46:56) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/drigg_80_15.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/drmax_80_15.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1062,7 +1062,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:54:36) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/drigg_80_15.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/drmax_80_15.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1102,7 +1102,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:54:36) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1110,7 +1110,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:54:36) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all//themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all//themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1156,7 +1156,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:54:39) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/drigg_80_15.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/drmax_80_15.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1164,7 +1164,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:54:39) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1180,7 +1180,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:54:39) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all//themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all//themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1218,7 +1218,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:55:17) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all//themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all//themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1242,7 +1242,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:55:18) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/drigg_80_15.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/drmax_80_15.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1250,7 +1250,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:55:18) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1272,7 +1272,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:55:24) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/drigg_80_15.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/drmax_80_15.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1288,7 +1288,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:55:24) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all//themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all//themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1312,7 +1312,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:55:24) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1344,7 +1344,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:55:28) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all//themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all//themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1360,7 +1360,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:55:28) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/drigg_80_15.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/drmax_80_15.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1368,7 +1368,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:55:28) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1422,7 +1422,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:57:32) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1438,7 +1438,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:57:32) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/drigg_80_15.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/drmax_80_15.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1454,7 +1454,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:57:32) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all//themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all//themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1468,7 +1468,7 @@ Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/site]
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:57:39) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/drigg_80_15.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/drmax_80_15.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1484,7 +1484,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:57:39) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all//themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all//themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1500,7 +1500,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 18:57:39) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1562,7 +1562,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 19:29:37) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/drigg_80_15.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/drmax_80_15.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1570,7 +1570,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 19:29:37) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1578,7 +1578,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 19:29:37) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all//themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all//themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1624,7 +1624,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 19:29:43) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all//themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all//themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1640,7 +1640,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 19:29:43) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/drigg_80_15.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/drmax_80_15.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1648,7 +1648,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 19:29:43) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1670,7 +1670,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 19:30:03) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all//themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all//themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1678,7 +1678,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 19:30:03) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/drigg_80_15.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/drmax_80_15.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1702,7 +1702,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 19:30:03) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1740,7 +1740,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 19:36:42) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all//themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all//themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1748,7 +1748,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 19:36:42) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/drigg_80_15.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/drmax_80_15.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1764,7 +1764,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 19:36:42) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1794,7 +1794,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 19:45:13) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all//themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all//themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1802,7 +1802,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 19:45:13) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1818,7 +1818,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 19:45:13) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/drigg_80_15.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/drmax_80_15.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1872,7 +1872,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 20:51:49) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all//themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all//themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1880,7 +1880,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 20:51:49) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1888,7 +1888,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 20:51:49) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/drigg_80_15.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/drmax_80_15.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1926,7 +1926,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 20:53:27) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all//themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all//themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1934,7 +1934,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 20:53:27) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/drigg_80_15.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/drmax_80_15.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1942,7 +1942,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 20:53:27) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1964,7 +1964,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 21:10:44) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1972,7 +1972,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 21:10:44) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/drigg_80_15.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/drmax_80_15.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -1988,7 +1988,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 21:10:44) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all//themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all//themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -2010,7 +2010,7 @@ Completed in 50ms (View: 48, DB: 0) | 200 OK [http://localhost/site]
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 21:23:20) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -2018,7 +2018,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 21:23:20) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all//themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all//themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -2034,7 +2034,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 21:23:20) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/drigg_80_15.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/drmax_80_15.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -2080,7 +2080,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 21:32:39) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all//themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all//themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -2096,7 +2096,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 21:32:39) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -2104,7 +2104,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 21:32:39) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/drigg_80_15.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/drmax_80_15.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -2118,7 +2118,7 @@ Completed in 113ms (View: 111, DB: 0) | 200 OK [http://localhost/site]
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 22:31:10) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/drigg_80_15.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/drmax_80_15.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -2142,7 +2142,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 22:31:10) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -2150,7 +2150,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 22:31:11) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all//themes/drigg_theme/img/block_feedicon.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all//themes/drmax_theme/img/block_feedicon.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -2180,7 +2180,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 22:38:33) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/drigg_80_15.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/drmax_80_15.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -2202,7 +2202,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 22:39:26) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/drigg_80_15.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/drmax_80_15.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -2232,7 +2232,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 22:47:24) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/drigg_80_15.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/drmax_80_15.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -2270,7 +2270,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 22:47:52) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/drigg_80_15.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/drmax_80_15.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -2284,7 +2284,7 @@ Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/site]
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 22:48:13) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/drigg_80_15.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/drmax_80_15.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -2322,7 +2322,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 22:48:43) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/drigg_80_15.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/drmax_80_15.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -2344,7 +2344,7 @@ Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/site]
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 22:48:52) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/drigg_80_15.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/drmax_80_15.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -2390,7 +2390,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 22:49:32) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/drigg_80_15.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/drmax_80_15.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -2420,7 +2420,7 @@ Rendering rescues/layout (not_found)
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-02 22:50:23) [GET]
 
-ActionController::RoutingError (No route matches "/sites/all/themes/drigg_theme/img/drigg_80_15.gif" with {:method=>:get}):
+ActionController::RoutingError (No route matches "/sites/all/themes/drmax_theme/img/drmax_80_15.gif" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
@@ -7531,6 +7531,822 @@ Rendering rescues/layout (not_found)
 
 
 Processing ApplicationController#index (for 127.0.0.1 at 2009-05-16 16:24:06) [GET]
+
+ActionController::RoutingError (No route matches "/misc/menu-collapsed.png" with {:method=>:get}):
+  passenger (2.1.2) lib/phusion_passenger/rack/request_handler.rb:65:in `process_request'
+  passenger (2.1.2) lib/phusion_passenger/abstract_request_handler.rb:197:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:340:in `start_request_handler'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:298:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/utils.rb:176:in `safe_fork'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:296:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:149:in `start'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:192:in `start'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:260:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:121:in `lookup_or_add'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:75:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:74:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:253:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:148:in `spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:285:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-05-16 16:31:56) [GET]
+
+ActionController::RoutingError (No route matches "/articles" with {:method=>:get}):
+  passenger (2.1.2) lib/phusion_passenger/rack/request_handler.rb:65:in `process_request'
+  passenger (2.1.2) lib/phusion_passenger/abstract_request_handler.rb:197:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:340:in `start_request_handler'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:298:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/utils.rb:176:in `safe_fork'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:296:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:149:in `start'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:192:in `start'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:260:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:121:in `lookup_or_add'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:75:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:74:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:253:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:148:in `spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:285:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+
+Rendering rescues/layout (not_found)
+
+
+Processing SiteController#index (for 127.0.0.1 at 2009-05-16 16:31:59) [GET]
+  Parameters: {"action"=>"index", "controller"=>"site"}
+  [4;36;1mDiscount Load (0.5ms)[0m   [0;1mSELECT * FROM "discounts" [0m
+Rendering template within layouts/application
+Rendering site/index
+Rendered site/_top_menu (1.7ms)
+Rendered site/_breadcrumb (1.2ms)
+Completed in 41ms (View: 36, DB: 1) | 200 OK [http://drmax.local/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-05-16 16:31:59) [GET]
+
+ActionController::RoutingError (No route matches "/img/header_titlebg.gif" with {:method=>:get}):
+  passenger (2.1.2) lib/phusion_passenger/rack/request_handler.rb:65:in `process_request'
+  passenger (2.1.2) lib/phusion_passenger/abstract_request_handler.rb:197:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:340:in `start_request_handler'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:298:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/utils.rb:176:in `safe_fork'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:296:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:149:in `start'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:192:in `start'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:260:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:121:in `lookup_or_add'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:75:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:74:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:253:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:148:in `spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:285:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-05-16 16:31:59) [GET]
+Rendering rescues/layout (not_found)
+
+ActionController::RoutingError (No route matches "/misc/menu-collapsed.png" with {:method=>:get}):
+  passenger (2.1.2) lib/phusion_passenger/rack/request_handler.rb:65:in `process_request'
+  passenger (2.1.2) lib/phusion_passenger/abstract_request_handler.rb:197:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:340:in `start_request_handler'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:298:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/utils.rb:176:in `safe_fork'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:296:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:149:in `start'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:192:in `start'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:260:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:121:in `lookup_or_add'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:75:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:74:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:253:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:148:in `spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:285:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+
+Rendering rescues/layout (not_found)
+
+
+Processing SiteController#index (for 127.0.0.1 at 2009-05-16 16:38:33) [GET]
+  Parameters: {"action"=>"index", "controller"=>"site"}
+  [4;36;1mDiscount Load (0.5ms)[0m   [0;1mSELECT * FROM "discounts" [0m
+Rendering template within layouts/application
+Rendering site/index
+Rendered site/_top_menu (0.3ms)
+Rendered site/_breadcrumb (0.1ms)
+Completed in 96ms (View: 90, DB: 0) | 200 OK [http://drmax.local/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-05-16 16:38:34) [GET]
+
+ActionController::RoutingError (No route matches "/img/header_titlebg.gif" with {:method=>:get}):
+  passenger (2.1.2) lib/phusion_passenger/rack/request_handler.rb:65:in `process_request'
+  passenger (2.1.2) lib/phusion_passenger/abstract_request_handler.rb:197:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:340:in `start_request_handler'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:298:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/utils.rb:176:in `safe_fork'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:296:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:149:in `start'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:192:in `start'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:260:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:121:in `lookup_or_add'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:75:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:74:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:253:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:148:in `spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:285:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-05-16 16:38:34) [GET]
+
+ActionController::RoutingError (No route matches "/misc/menu-collapsed.png" with {:method=>:get}):
+  passenger (2.1.2) lib/phusion_passenger/rack/request_handler.rb:65:in `process_request'
+  passenger (2.1.2) lib/phusion_passenger/abstract_request_handler.rb:197:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:340:in `start_request_handler'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:298:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/utils.rb:176:in `safe_fork'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:296:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:149:in `start'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:192:in `start'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:260:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:121:in `lookup_or_add'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:75:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:74:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:253:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:148:in `spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:285:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+
+Rendering rescues/layout (not_found)
+
+
+Processing SiteController#index (for 127.0.0.1 at 2009-05-16 21:23:05) [GET]
+  Parameters: {"action"=>"index", "controller"=>"site"}
+  [4;36;1mDiscount Load (0.5ms)[0m   [0;1mSELECT * FROM "discounts" [0m
+Rendering template within layouts/application
+Rendering site/index
+Rendered site/_top_menu (1.6ms)
+Rendered site/_breadcrumb (1.3ms)
+Completed in 44ms (View: 39, DB: 1) | 200 OK [http://drmax.local/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-05-16 21:23:06) [GET]
+
+ActionController::RoutingError (No route matches "/img/header_titlebg.gif" with {:method=>:get}):
+  passenger (2.1.2) lib/phusion_passenger/rack/request_handler.rb:65:in `process_request'
+  passenger (2.1.2) lib/phusion_passenger/abstract_request_handler.rb:197:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:340:in `start_request_handler'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:298:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/utils.rb:176:in `safe_fork'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:296:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:149:in `start'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:192:in `start'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:260:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:121:in `lookup_or_add'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:75:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:74:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:253:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:148:in `spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:285:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-05-16 21:23:06) [GET]
+
+ActionController::RoutingError (No route matches "/misc/menu-collapsed.png" with {:method=>:get}):
+  passenger (2.1.2) lib/phusion_passenger/rack/request_handler.rb:65:in `process_request'
+  passenger (2.1.2) lib/phusion_passenger/abstract_request_handler.rb:197:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:340:in `start_request_handler'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:298:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/utils.rb:176:in `safe_fork'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:296:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:149:in `start'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:192:in `start'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:260:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:121:in `lookup_or_add'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:75:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:74:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:253:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:148:in `spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:285:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+
+Rendering rescues/layout (not_found)
+
+
+Processing SiteController#index (for 127.0.0.1 at 2009-05-18 22:01:15) [GET]
+  Parameters: {"action"=>"index", "controller"=>"site"}
+  [4;36;1mDiscount Load (0.6ms)[0m   [0;1mSELECT * FROM "discounts" [0m
+Rendering template within layouts/application
+Rendering site/index
+Rendered site/_top_menu (14.6ms)
+Rendered site/_breadcrumb (1.3ms)
+Completed in 75ms (View: 53, DB: 1) | 200 OK [http://drmax.local/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-05-18 22:02:03) [GET]
+
+ActionController::RoutingError (No route matches "/misc/menu-collapsed.png" with {:method=>:get}):
+  passenger (2.1.2) lib/phusion_passenger/rack/request_handler.rb:65:in `process_request'
+  passenger (2.1.2) lib/phusion_passenger/abstract_request_handler.rb:197:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:340:in `start_request_handler'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:298:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/utils.rb:176:in `safe_fork'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:296:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:149:in `start'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:192:in `start'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:260:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:121:in `lookup_or_add'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:75:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:74:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:253:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:148:in `spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:285:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-05-18 22:02:04) [GET]
+
+ActionController::RoutingError (No route matches "/img/header_titlebg.gif" with {:method=>:get}):
+  passenger (2.1.2) lib/phusion_passenger/rack/request_handler.rb:65:in `process_request'
+  passenger (2.1.2) lib/phusion_passenger/abstract_request_handler.rb:197:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:340:in `start_request_handler'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:298:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/utils.rb:176:in `safe_fork'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:296:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:149:in `start'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:192:in `start'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:260:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:121:in `lookup_or_add'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:75:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:74:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:253:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:148:in `spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:285:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+
+Rendering rescues/layout (not_found)
+
+
+Processing SiteController#index (for 127.0.0.1 at 2009-05-20 20:14:30) [GET]
+  Parameters: {"action"=>"index", "controller"=>"site"}
+  [4;36;1mDiscount Load (0.9ms)[0m   [0;1mSELECT * FROM "discounts" [0m
+Rendering template within layouts/application
+Rendering site/index
+Rendered site/_top_menu (14.2ms)
+Rendered site/_breadcrumb (13.7ms)
+Completed in 134ms (View: 109, DB: 1) | 200 OK [http://drmax.local/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-05-20 20:14:31) [GET]
+
+ActionController::RoutingError (No route matches "/img/header_titlebg.gif" with {:method=>:get}):
+  passenger (2.1.2) lib/phusion_passenger/rack/request_handler.rb:65:in `process_request'
+  passenger (2.1.2) lib/phusion_passenger/abstract_request_handler.rb:197:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:340:in `start_request_handler'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:298:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/utils.rb:176:in `safe_fork'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:296:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:149:in `start'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:192:in `start'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:260:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:121:in `lookup_or_add'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:75:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:74:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:253:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:148:in `spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:285:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-05-20 20:14:31) [GET]
+
+ActionController::RoutingError (No route matches "/misc/menu-collapsed.png" with {:method=>:get}):
+  passenger (2.1.2) lib/phusion_passenger/rack/request_handler.rb:65:in `process_request'
+  passenger (2.1.2) lib/phusion_passenger/abstract_request_handler.rb:197:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:340:in `start_request_handler'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:298:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/utils.rb:176:in `safe_fork'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:296:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:149:in `start'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:192:in `start'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:260:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:121:in `lookup_or_add'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:75:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:74:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:253:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:148:in `spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:285:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+
+Rendering rescues/layout (not_found)
+
+
+Processing SiteController#index (for 127.0.0.1 at 2009-05-20 20:16:01) [GET]
+  Parameters: {"action"=>"index", "controller"=>"site"}
+  [4;36;1mDiscount Load (0.5ms)[0m   [0;1mSELECT * FROM "discounts" [0m
+
+
+Processing SiteController#index (for 127.0.0.1 at 2009-05-20 20:16:01) [GET]
+  Parameters: {"action"=>"index", "controller"=>"site"}
+  [4;36;1mDiscount Load (0.5ms)[0m   [0;1mSELECT * FROM "discounts" [0m
+Rendering template within layouts/application
+Rendering site/index
+Rendering template within layouts/application
+Rendering site/index
+Rendered site/_top_menu (1.7ms)
+Rendered site/_top_menu (1.6ms)
+Rendered site/_breadcrumb (1.5ms)
+Completed in 48ms (View: 42, DB: 1) | 200 OK [http://drmax.local/]
+Rendered site/_breadcrumb (1.3ms)
+Completed in 49ms (View: 43, DB: 1) | 200 OK [http://drmax.local/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-05-20 20:16:01) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/default.css" with {:method=>:get}):
+  passenger (2.1.2) lib/phusion_passenger/rack/request_handler.rb:65:in `process_request'
+  passenger (2.1.2) lib/phusion_passenger/abstract_request_handler.rb:197:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:340:in `start_request_handler'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:298:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/utils.rb:176:in `safe_fork'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:296:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:149:in `start'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:192:in `start'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:260:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:121:in `lookup_or_add'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:75:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:74:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:253:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:148:in `spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:285:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-05-20 20:16:01) [GET]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-05-20 20:16:01) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/base.css" with {:method=>:get}):
+  passenger (2.1.2) lib/phusion_passenger/rack/request_handler.rb:65:in `process_request'
+  passenger (2.1.2) lib/phusion_passenger/abstract_request_handler.rb:197:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:340:in `start_request_handler'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:298:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/utils.rb:176:in `safe_fork'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:296:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:149:in `start'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:192:in `start'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:260:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:121:in `lookup_or_add'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:75:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:74:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:253:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:148:in `spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:285:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+
+Rendering rescues/layout (not_found)
+
+ActionController::RoutingError (No route matches "/stylesheets/system.css" with {:method=>:get}):
+  passenger (2.1.2) lib/phusion_passenger/rack/request_handler.rb:65:in `process_request'
+  passenger (2.1.2) lib/phusion_passenger/abstract_request_handler.rb:197:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:340:in `start_request_handler'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:298:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/utils.rb:176:in `safe_fork'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:296:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:149:in `start'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:192:in `start'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:260:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:121:in `lookup_or_add'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:75:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:74:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:253:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:148:in `spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:285:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+
+Rendering rescues/layout (not_found)
+
+
+Processing SiteController#index (for 127.0.0.1 at 2009-05-20 20:23:01) [GET]
+  Parameters: {"action"=>"index", "controller"=>"site"}
+  [4;36;1mDiscount Load (9.5ms)[0m   [0;1mSELECT * FROM "discounts" [0m
+Rendering template within layouts/application
+Rendering site/index
+Rendered site/_top_menu (1.9ms)
+Rendered site/_breadcrumb (1.4ms)
+Completed in 56ms (View: 41, DB: 9) | 200 OK [http://drmax.local/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-05-20 20:23:02) [GET]
+
+ActionController::RoutingError (No route matches "/img/header_titlebg.gif" with {:method=>:get}):
+  passenger (2.1.2) lib/phusion_passenger/rack/request_handler.rb:65:in `process_request'
+  passenger (2.1.2) lib/phusion_passenger/abstract_request_handler.rb:197:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:340:in `start_request_handler'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:298:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/utils.rb:176:in `safe_fork'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:296:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:149:in `start'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:192:in `start'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:260:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:121:in `lookup_or_add'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:75:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:74:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:253:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:148:in `spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:285:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-05-20 20:23:02) [GET]
+
+ActionController::RoutingError (No route matches "/misc/menu-collapsed.png" with {:method=>:get}):
+  passenger (2.1.2) lib/phusion_passenger/rack/request_handler.rb:65:in `process_request'
+  passenger (2.1.2) lib/phusion_passenger/abstract_request_handler.rb:197:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:340:in `start_request_handler'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:298:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/utils.rb:176:in `safe_fork'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:296:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:149:in `start'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:192:in `start'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:260:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:121:in `lookup_or_add'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:75:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:74:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:253:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:148:in `spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:285:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+
+Rendering rescues/layout (not_found)
+
+
+Processing SiteController#index (for 127.0.0.1 at 2009-05-26 19:44:35) [GET]
+  Parameters: {"action"=>"index", "controller"=>"site"}
+  [4;36;1mDiscount Load (7.6ms)[0m   [0;1mSELECT * FROM "discounts" [0m
+Rendering template within layouts/application
+Rendering site/index
+Rendered site/_top_menu (20.1ms)
+Rendered site/_breadcrumb (14.2ms)
+Completed in 159ms (View: 132, DB: 8) | 200 OK [http://drmax.local/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-05-26 19:44:37) [GET]
+
+ActionController::RoutingError (No route matches "/img/header_titlebg.gif" with {:method=>:get}):
+  passenger (2.1.2) lib/phusion_passenger/rack/request_handler.rb:65:in `process_request'
+  passenger (2.1.2) lib/phusion_passenger/abstract_request_handler.rb:197:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:340:in `start_request_handler'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:298:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/utils.rb:176:in `safe_fork'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:296:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:149:in `start'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:192:in `start'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:260:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:121:in `lookup_or_add'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:75:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:74:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:253:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:148:in `spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:285:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-05-26 19:44:38) [GET]
+
+ActionController::RoutingError (No route matches "/misc/menu-collapsed.png" with {:method=>:get}):
+  passenger (2.1.2) lib/phusion_passenger/rack/request_handler.rb:65:in `process_request'
+  passenger (2.1.2) lib/phusion_passenger/abstract_request_handler.rb:197:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:340:in `start_request_handler'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:298:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/utils.rb:176:in `safe_fork'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:296:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:149:in `start'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:192:in `start'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:260:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:121:in `lookup_or_add'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:75:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:74:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:253:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:148:in `spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:285:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+
+Rendering rescues/layout (not_found)
+
+
+Processing SiteController#index (for 127.0.0.1 at 2009-05-28 18:29:38) [GET]
+  Parameters: {"action"=>"index", "controller"=>"site"}
+  [4;36;1mDiscount Load (1.3ms)[0m   [0;1mSELECT * FROM "discounts" [0m
+Rendering template within layouts/application
+Rendering site/index
+Rendered site/_top_menu (111.2ms)
+Rendered site/_breadcrumb (1.7ms)
+Completed in 482ms (View: 462, DB: 1) | 200 OK [http://drmax.local/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-05-28 18:29:40) [GET]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-05-28 18:29:40) [GET]
+
+ActionController::RoutingError (No route matches "/misc/menu-collapsed.png" with {:method=>:get}):
+  passenger (2.1.2) lib/phusion_passenger/rack/request_handler.rb:65:in `process_request'
+  passenger (2.1.2) lib/phusion_passenger/abstract_request_handler.rb:197:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:340:in `start_request_handler'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:298:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/utils.rb:176:in `safe_fork'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:296:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:149:in `start'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:192:in `start'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:260:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:121:in `lookup_or_add'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:75:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:74:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:253:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:148:in `spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:285:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+
+Rendering rescues/layout (not_found)
+
+ActionController::RoutingError (No route matches "/img/header_titlebg.gif" with {:method=>:get}):
+  passenger (2.1.2) lib/phusion_passenger/rack/request_handler.rb:65:in `process_request'
+  passenger (2.1.2) lib/phusion_passenger/abstract_request_handler.rb:197:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:340:in `start_request_handler'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:298:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/utils.rb:176:in `safe_fork'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:296:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:149:in `start'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:192:in `start'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:260:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:121:in `lookup_or_add'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:75:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:74:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:253:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:148:in `spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:285:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+
+Rendering rescues/layout (not_found)
+
+
+Processing SiteController#index (for 127.0.0.1 at 2009-05-28 21:01:20) [GET]
+  Parameters: {"action"=>"index", "controller"=>"site"}
+  [4;36;1mDiscount Load (1.4ms)[0m   [0;1mSELECT * FROM "discounts" [0m
+Rendering template within layouts/application
+Rendering site/index
+Rendered site/_top_menu (17.5ms)
+Rendered site/_breadcrumb (14.2ms)
+Completed in 148ms (View: 128, DB: 1) | 200 OK [http://drmax.local/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-05-28 21:01:21) [GET]
+
+ActionController::RoutingError (No route matches "/img/header_titlebg.gif" with {:method=>:get}):
+  passenger (2.1.2) lib/phusion_passenger/rack/request_handler.rb:65:in `process_request'
+  passenger (2.1.2) lib/phusion_passenger/abstract_request_handler.rb:197:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:340:in `start_request_handler'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:298:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/utils.rb:176:in `safe_fork'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:296:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:149:in `start'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:192:in `start'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:260:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:121:in `lookup_or_add'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:75:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:74:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:253:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:148:in `spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:285:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-05-28 21:01:21) [GET]
+
+ActionController::RoutingError (No route matches "/misc/menu-collapsed.png" with {:method=>:get}):
+  passenger (2.1.2) lib/phusion_passenger/rack/request_handler.rb:65:in `process_request'
+  passenger (2.1.2) lib/phusion_passenger/abstract_request_handler.rb:197:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:340:in `start_request_handler'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:298:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/utils.rb:176:in `safe_fork'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:296:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:149:in `start'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:192:in `start'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:260:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:121:in `lookup_or_add'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:75:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:74:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:253:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:148:in `spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:285:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+
+Rendering rescues/layout (not_found)
+
+
+Processing SiteController#index (for 127.0.0.1 at 2009-05-28 22:26:46) [GET]
+  Parameters: {"action"=>"index", "controller"=>"site"}
+  [4;36;1mDiscount Load (0.9ms)[0m   [0;1mSELECT * FROM "discounts" [0m
+Rendering template within layouts/application
+Rendering site/index
+Rendered site/_top_menu (1.5ms)
+Rendered site/_breadcrumb (1.2ms)
+Completed in 60ms (View: 52, DB: 1) | 200 OK [http://drmax.local/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-05-28 22:26:47) [GET]
+
+ActionController::RoutingError (No route matches "/img/header_titlebg.gif" with {:method=>:get}):
+  passenger (2.1.2) lib/phusion_passenger/rack/request_handler.rb:65:in `process_request'
+  passenger (2.1.2) lib/phusion_passenger/abstract_request_handler.rb:197:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:340:in `start_request_handler'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:298:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/utils.rb:176:in `safe_fork'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:296:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:149:in `start'
+  passenger (2.1.2) lib/phusion_passenger/railz/application_spawner.rb:192:in `start'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:260:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:121:in `lookup_or_add'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:254:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:75:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server_collection.rb:74:in `synchronize'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:253:in `spawn_rails_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:148:in `spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/spawn_manager.rb:285:in `handle_spawn_application'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `__send__'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:332:in `main_loop'
+  passenger (2.1.2) lib/phusion_passenger/abstract_server.rb:182:in `start_synchronously'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-05-28 22:26:47) [GET]
 
 ActionController::RoutingError (No route matches "/misc/menu-collapsed.png" with {:method=>:get}):
   passenger (2.1.2) lib/phusion_passenger/rack/request_handler.rb:65:in `process_request'

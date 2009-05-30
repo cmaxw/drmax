@@ -1,0 +1,347 @@
+body
+  :margin 0
+  :background-color #fff
+  :font 9pt/1.5em Arial, Tahoma, Verdana, "Lucida Grande", sans-serif
+  :color #333
+
+
+#container
+  :margin 0 auto
+  :min-width 760px
+  :max-width 1260px
+
+
+a
+  :color #1b81ca
+  :text-decoration none
+
+  &:hover
+    :text-decoration underline
+
+
+.clearfix
+  :#display inline-block
+  :_height 1px
+  :display block
+
+  &:after
+    :content "."
+    :display block
+    :height 0
+    :clear both
+    :visibility hidden
+
+
+#header_title
+  :background url("../img/header_titlebg.gif") repeat-x top left
+  :height 100px
+  :padding 0 20px
+
+  h1
+    :margin 0
+    :width 220px
+    :height 100px
+
+    a
+      :display block
+      :width 500px
+      :height 100px
+      :background url("/images/css/header_logo.jpg") no-repeat top left
+      :text-indent -1000em
+      :overflow hidden
+      :text-decoration none
+      :outline none
+
+
+ul.primary-links
+  :position relative
+  :height 25px
+  :top 0
+  :float right
+
+  li
+    :margin 0
+    :padding 0
+    :float left
+    :background-image none
+
+    a
+      :display block
+      :margin 0 1em
+      :padding .4em 0 0
+      :color #00446b
+      :text-decoration underline
+
+      &:link, &:visited
+        :display block
+        :margin 0 1em
+        :padding .4em 0 0
+        :color #00446b
+        :text-decoration underline
+
+
+#header_search
+  :clear right
+  :position relative
+  :top 30px
+  :float right
+
+  form
+    :margin 0
+    :width 180px
+
+    *
+      :vertical-align top
+
+    input
+      :margin 0
+      :display block
+      :float left
+
+      &.form-text
+        :border 0
+        :background-color #fff
+        :height 17px
+        :width 139px
+        :margin-right 1px
+        :padding 1px 0 0 1px
+        :border 1px solid #66a6c8
+        :color #333
+        :outline none
+
+      &.form-submit
+        :border 0
+        :padding 0
+        :background-image url("../img/header_searchbtn.gif")
+        :width 30px
+        :height 20px
+        :overflow hidden
+        :text-indent -1000em
+        :word-spacing 10em
+
+  p
+    :clear left
+    :margin 0
+    :text-align right
+    :font-size 8pt
+
+
+#header_categories
+  :height 30px
+  :padding 0 20px
+  :background url("/images/css/header_categoriesbg.gif") repeat-x top left
+  :background-color gray
+
+  a
+    &.drmax-login
+      :float right
+      :margin-left 10px
+      :display block
+      :border 1px solid #fff
+      :border-top 0
+      :border-bottom 0
+      :background-repeat no-repeat
+      :background-position top left
+      :height 30px
+      :text-indent -1000em
+      :overflow hidden
+      :text-decoration none
+      :outline none
+      :width 117px
+      :background-image url("../img/header_loginbtn.gif")
+
+      &:hover
+        :background-position 0 -30px
+
+      &:active
+        :background-position 0 -60px
+
+    &.drmax-submit
+      :float right
+      :margin-left 10px
+      :display block
+      :border 1px solid #fff
+      :border-top 0
+      :border-bottom 0
+      :background-repeat no-repeat
+      :background-position top left
+      :height 30px
+      :text-indent -1000em
+      :overflow hidden
+      :text-decoration none
+      :outline none
+      :width 115px
+      :background-image url("../img/header_submitbtn.gif")
+
+      &:hover
+        :background-position 0 -30px
+
+      &:active
+        :background-position 0 -60px
+
+  ul
+    :margin 0
+    :padding 0
+    :list-style none
+    :height 30px
+    :line-height 30px
+
+    li
+      :display inline
+
+      a
+        :float left
+        :display block
+        :padding 0 0.5em
+        :color #fff
+        :text-shadow 0 1px 0 rgba(0,0,0,0.3)
+
+        &.active
+          :margin-top 3px
+          :line-height 27px
+          :background #fff
+          :color #666
+          :text-shadow none
+
+
+#header_breadcrumb
+  :clear left
+  :height 30px
+  :line-height 30px
+  :padding 0 20px
+  :font-size 8pt
+  :color #666
+  :border-bottom 1px solid #e5e5e5
+
+
+#content
+  :padding 20px 220px
+
+  .column
+    :position relative
+    :float left
+
+  > #content_left
+    :left -220px
+    :margin-left expression(document.all.content_center.offsetWidth * -1)
+
+
+#content_center
+  :width 100%
+
+  div
+    &.controlbar
+      h1
+        :float left
+        :line-height 1.2em
+        :margin-right 20px
+        :margin-bottom 0
+
+      ul
+        :margin 0
+        :padding 0
+        :list-style none
+
+        li
+          :display inline
+
+        &.drmax-viewtype
+          :float right
+          :font-size 11pt
+          :line-height 20pt
+
+          li
+            a
+              :display block
+              :float left
+              :margin-left 10px
+              :padding 0px 5px 5px 5px
+
+            &.active a
+              :background-color #f3f9fc
+              :color #00446b
+
+        &.drmax-order
+          :background-color #f3f9fc
+          :padding 0.5em
+          :clear both
+
+          li
+            a
+              :padding 0.2em 0.5em
+              :margin-right 0.5em
+
+            &.active a
+              :background-color #1b81ca
+              :color #fff
+
+    &.pager
+      :clear both
+      :padding 0 20px
+      :margin-top 15px
+
+      a
+        :border 1px solid #ccc
+        :padding 0.1em 0.5em
+        :margin 0 1px
+        :color #666
+
+      strong
+        :border 1px solid #ddd
+        :padding 0.1em 0.5em
+        :margin 0 1px
+        :color #333
+        :background-color #f3f9fc
+
+  h1
+    :font-size 16pt
+    :font-weight normal
+    :color #00446b
+    :letter-spacing -1px
+    :margin-top 0
+
+  h2
+    :font-size 13pt
+    :line-height 1.3em
+    :color #666
+
+  table
+    th
+      :padding 0.5em
+      :background-color #e8f2fa
+      :border-bottom 0
+
+    tbody
+      :border-top none
+
+    tr
+      :padding 0
+      :border-bottom 1px solid #fff
+      :background transparent
+
+      &.even
+        :background-color #f3f9fc
+
+    td
+      :padding 0.5em
+
+      &.active
+        :background-color #ffc
+
+
+#content_left
+  :width 180px
+  :padding 0 20px
+  :margin-left -100%
+  :left 220px
+
+
+#content_right
+  :width 180px
+  :padding 0 20px
+  :margin-right -220px
+
+
+#footer
+  :clear both
+  :padding 20px

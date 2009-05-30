@@ -1,3 +1,24 @@
-= render :partial => "discount", :collection => @discounts
+- if @discounts.length > 0
+  %h2 Current discounts
+= render :partial => "sidebar_display", :collection => @discounts
 #new_discount
-  = link_to "Add a Discount", "#", :onclick => "$.ajax({url: '/discount/add', type: 'POST', success: function(html){$('#new_discount').replaceWith(html);}});"
+  %h2 Add a New Discount
+  = error_messages_for :discount
+  - form_for :discount, :url => "/discount/create" do |f|
+    %p
+      = f.label :name, "Name:"
+      = f.text_field :name, :size => 30
+      %br
+      %small Example: Senior Citizen's Discount
+    %p
+      = f.label :amount, "Amount:"
+      = f.text_field :amount, :size => 5
+      %br
+      %small Example: 5% or $25.00
+    %p
+      = f.label :caption, "Caption:"
+      = f.text_field :caption, :size => 30
+      %br
+      %small Example: For patients 65 and older
+    %p
+      = submit_tag "New"

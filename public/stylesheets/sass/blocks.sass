@@ -1,0 +1,129 @@
+.block
+  :margin-bottom 2.5em
+
+  h2
+    :font-size 12pt
+    :color #00446b
+    :letter-spacing -1px
+    :margin-top 0.4em
+
+  ul li, ol li
+    :border-bottom 1px solid #e5e5e5
+    :padding 0.2em 0
+
+
+.list_sidebar ul.menu
+  :margin 0
+  :padding 0
+  :list-style none
+
+  li
+    :margin-left 0
+    :list-style-image none
+    :list-style-type none
+    :padding-left 16px
+
+    &.leaf
+      :background transparent url("../img/block_menu_leaf.gif") no-repeat left 0.3em
+
+    &.collapsed
+      :background transparent url("../img/block_menu_collapsed.gif") no-repeat left 0.3em
+
+    &.expanded
+      :background transparent url("../img/block_menu_expanded.gif") no-repeat left 0.3em
+
+  ul li
+    :border-bottom none
+
+
+.sidebar_sub
+  ol
+    :margin 0
+    :padding 0
+
+    &.drmax-best-karma-users
+      :list-style-position inside
+      :font-size 10pt
+
+      li
+        *
+          :display inline
+          :vertical-align text-bottom
+          :font-size 9pt
+
+        img
+          :width 15px
+          :height 15px
+
+  ul
+    :margin 0
+    :padding 0
+    :list-style none
+
+    li
+      :clear left
+      :#display inline-block
+      :_height 1px
+      :#display inline-block
+      :_height 1px
+      :display block
+      :display block
+
+      &:after
+        :content "."
+        :display block
+        :height 0
+        :clear both
+        :visibility hidden
+
+      span.score
+        :display block
+        :float left
+        :margin 0.2em 0
+        :width 30px
+        :height 30px
+        :line-height 30px
+        :font-size 11pt
+        :letter-spacing -1px
+        :text-align center
+        :text-shadow 0 1px 0 #fff
+        :background transparent url("../img/block_scorebg_upcoming.gif")
+        :color #333
+
+      &.promoted span.score
+        :background transparent url("../img/block_scorebg_published.gif")
+        :color #960
+
+      a
+        :display block
+        :margin-left 35px
+
+    &.top-menu
+      :margin 0
+      :padding 0
+      :list-style none
+
+      li
+        :display list-item
+        :position relative
+
+        a
+          :display inline
+          :margin-left 0
+
+        span.rss
+          :position absolute
+          :right 0
+          :top 0.2em
+          :font-size 8pt
+
+          img
+            :margin-bottom -2px
+
+          a
+            :text-decoration none
+            :color #c96
+
+            &:hover
+              :color #c60
+

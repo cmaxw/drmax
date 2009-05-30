@@ -1,0 +1,43 @@
+fieldset
+  :margin-bottom 1em
+  :padding .5em
+
+
+form
+  :margin 0
+  :padding 0
+
+
+hr
+  :height 1px
+  :border 1px solid gray
+
+
+img
+  :border 0
+
+
+table
+  :border-collapse collapse
+
+
+th
+  :text-align left
+  :padding-right 1em
+  :border-bottom 3px solid #ccc
+
+
+.clear-block
+  :display inline-block
+  :display block
+
+  &:after
+    :content "."
+    :display block
+    :height 0
+    :clear both
+    :visibility hidden
+
+
+* html .clear-block
+  :height 1%

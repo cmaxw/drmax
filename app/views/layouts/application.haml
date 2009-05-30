@@ -30,15 +30,13 @@
           =render :partial => "site/top_menu"
         #header_breadcrumb
           =render :partial => "site/breadcrumb"
-      /
-        \/header
+ 
       #content
         #content_center.column
           = yield
-        /
-          \/content_center
+
         #content_left.column
-          #block-user-1.block.block-user
+          #block-user-1.block.list_sidebar
             %h2.title
               Discounts
             .content
@@ -61,7 +59,7 @@
         /
           \/content_left
         #content_right.column
-          #block-drigg_blocks-0.block.block-drigg_blocks
+          #sidebar_sub-0.block.sidebar_sub
             %h2.title
               Recent Articles
             .content
@@ -86,7 +84,7 @@
                   %a{ :href => "#" }
                     %span
                       Yadda Yadda Yadda
-          #block-drigg_blocks-1.block.block-drigg_blocks
+          #sidebar_sub-1.block.sidebar_sub
             %h2.title
               Office News
             .content

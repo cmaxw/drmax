@@ -12,4 +12,6 @@
 #
 
 class Discount < ActiveRecord::Base
+  validates_length_of :name, :minimum => 2
+  validates_length_of :amount, :minimum => 2
 end
