@@ -15,3 +15,9 @@ set :use_sudo, false
 role :app, "208.84.145.243"
 role :web, "208.84.145.243"
 role :db,  "208.84.145.243", :primary => true
+
+namespace "deploy" do
+  task "restart" do
+    run "/etc/init.d/apache2 restart"
+  end
+end

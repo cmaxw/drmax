@@ -40,11 +40,12 @@
             %h2.title
               Discounts
             .content
-              %ul.menu
-                %li.collapsed
+              = render :partial => "discount/sidebar_display", :collection => @sidebar_discounts
+              / %ul.menu
+                 / %li.collapsed
                   Student Discount - 10%
-                  %br
-                  %small
+                  / %br
+                  / %small
                     Available with BYU or UVU ID
                 %li.collapsed
                   Senior Citizen - 10%
