@@ -6,9 +6,12 @@ class DiscountController < ApplicationController
   end
   
   def create
-    @discount = Discount.create(params[:discount])
-    @discounts = Discount.find(:all)
-    render :action => "index"
+    @discount = Discount.new(params[:discount])
+    if @discount.save
+      redirect_to "/discount"
+    else
+      render :action => "index"
+    end
   end
 
   def edit
