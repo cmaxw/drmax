@@ -40,23 +40,8 @@
             %h2.title
               Discounts
             .content
-              = render :partial => "discount/sidebar_display", :collection => @sidebar_discounts
-              / %ul.menu
-                 / %li.collapsed
-                  Student Discount - 10%
-                  / %br
-                  / %small
-                    Available with BYU or UVU ID
-                %li.collapsed
-                  Senior Citizen - 10%
-                  %br
-                  %small
-                    For patients 65 and older
-                %li.collapsed
-                  Cool Guys - 100%
-                  %br
-                  %small
-                    Named Chuck, Charles, or Max
+              %ul.menu
+                = render :partial => "discount/sidebar_display", :collection => @sidebar_discounts
         /
           \/content_left
         #content_right.column
