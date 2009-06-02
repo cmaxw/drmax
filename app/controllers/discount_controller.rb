@@ -1,4 +1,6 @@
 class DiscountController < ApplicationController
+  before_filter :require_user
+
   def add
     render :action => "add", :layout => false
   end
